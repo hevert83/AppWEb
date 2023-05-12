@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Appwebhever'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F0D6687BB2E340F185D16131EA5CFA5C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7C8BED3725CC48ED92DEEEF6B74C20DE }}
